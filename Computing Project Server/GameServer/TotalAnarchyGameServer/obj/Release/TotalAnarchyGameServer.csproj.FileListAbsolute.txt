@@ -1,0 +1,1 @@
+F:\Uni\Computing Project\Computing Project Server\GameServer\TotalAnarchyGameServer\obj\Release\TotalAnarchyGameServer.csproj.CoreCompileInputs.cache
